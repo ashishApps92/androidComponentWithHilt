@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/fragment_display.xml",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_display.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/fragment_login.xml",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/fragment_register.xml",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/fragment_note.xml",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_note.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/fragment_register.xml",
+        "source": "ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-mergeDebugResources-52:/layout/login_dashborad.xml",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/login_dashborad.xml"
+    }
+]

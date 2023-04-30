@@ -22,5 +22,18 @@ class Helper {
             }
         }
     }
-
+    class WeekDay(var b: String) {
+        val a = print("Monday")
+        init {
+            print("Saturday")
+        }
+        constructor() : this("Tuesday") {
+            print("Sunday")
+        }
+    }
+}
+fun main() {
+    var a = Helper.WeekDay()
+    println()
+    var b = Helper.WeekDay("aaaa")
 }

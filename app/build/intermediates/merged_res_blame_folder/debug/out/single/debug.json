@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_fragment_register.xml.flat",
+        "source": "ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_fragment_note.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_note.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-pngs-48:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_fragment_display.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_display.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_fragment_register.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_fragment_login.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_login_dashborad.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/login_dashborad.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashishkumar/.gradle/daemon/7.4/ashish.apps.androidcomponentwithhilt.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]
